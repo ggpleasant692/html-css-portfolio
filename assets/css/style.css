@@ -33,3 +33,98 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+.image-container
+{
+   height: 0%;   
+   width: 2px;
+   padding-left: 200px;
+   display: flexbox;
+   justify-content: center;
+   justify-content: space-between;
+   
+
+}
+.text
+{
+padding-left: 150px;
+}
+.text2{
+  padding-left: 84px;
+}
+
+  
+
+
+
+
+/*
+  .image-name {
+    position: absolute;
+    top: 0;
+    le
+    width: 3%;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    text-align: left;
+    justify-content: left;
+    padding: 1px;
+  }
+
+  .image-name2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3%;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    text-align: left;
+    justify-content: left;
+    padding: 1px;
+  }
+
+  .image-name3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3%;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    text-align: left;
+    justify-content: left;
+    padding: 1px;
+  }
+
+  .image-name4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3%;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    text-align: left;
+    justify-content: left;
+    padding: 1px;
+  }
+  .bottomright {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+    font-size: 18px;
+    
+  }
+  */
+  
+
+  /*
+  .bottom-right {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3%;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    text-align: left;
+    justify-content: left;
+    padding: 1px;};
+    */
